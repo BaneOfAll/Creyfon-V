@@ -1,0 +1,24 @@
+{
+  "name": "EmptyBot_o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.4.2",
+    "googleapis": "^37.1.0",
+    "git": "^0.1.5",
+    "pokemon": "^1.2.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "typedarray-to-buffer": "^3.1.5",
+    "yaeti": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
