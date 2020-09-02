@@ -6,7 +6,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "discord.js": "^11.4.2",
-    "googleapis": "^37.1.0",
+    "googleapis": "^59.0.0",
     "git": "^0.1.5",
     "pokemon": "^1.2.3",
     "request": "^2.88.0",
